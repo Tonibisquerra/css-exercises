@@ -1,0 +1,24 @@
+.one {
+    background-color: rgb(243, 118, 118);
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 48px;
+    font-weight: 650;
+}
+
+.three {
+    background-color: rgb(243, 118, 118);
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: 350;
+}
+
+#four {
+    background-color: rgb(129, 199, 129);
+    font-size: 36px;
+    font-weight: bold;
+}
